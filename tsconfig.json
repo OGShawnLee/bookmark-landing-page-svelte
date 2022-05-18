@@ -8,7 +8,9 @@
     "baseUrl": ".",
     "paths": {
       "@assets": ["src/assets"],
-      "@assets/*": ["src/assets/*"]
+      "@assets/*": ["src/assets/*"],
+      "@layout": ["src/layout"],
+      "@layout/*": ["src/layout/*"]
     },
     /**
      * Typecheck JS in `.svelte` and `.js` files by default.
