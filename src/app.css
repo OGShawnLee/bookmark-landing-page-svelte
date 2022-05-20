@@ -1,0 +1,29 @@
+a,
+button,
+input {
+  outline: none;
+}
+
+.button {
+  @apply shadow-lg border-2 border-transparent rounded-md font-medium hover:(bg-white shadow-none) focus:bg-white transition;
+}
+
+.button--blue {
+  @apply bg-soft-blue text-white hover:text-soft-blue focus:(border-soft-blue text-soft-blue);
+}
+
+.button--gray {
+  @apply bg-blue-gray/15 hover:text-blue-dark focus:(border-blue-dark text-blue-dark);
+}
+
+.button--red {
+  @apply bg-soft-red text-white hover:text-soft-red focus:(border-soft-red text-soft-red);
+}
+
+.active-grow {
+  @apply transition transform duration-150 hover:scale-125 focus:scale-140;
+}
+
+.scroll-mt-24 {
+  scroll-margin-top: 6rem;
+}
