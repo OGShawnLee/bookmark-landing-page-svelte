@@ -13,7 +13,7 @@
     use:panel
     in:slide={{ easing: quadOut }}>
     <div class="mx-auto lg:col-span-6">
-      <img src={illustration} alt="" />
+      <img src={illustration} alt="" width="440" height="380" />
     </div>
     <div class="flex flex-col gap-6 | text-center | lg:(col-span-6 justify-center text-left)">
       <h3 class="text-2xl text-blue-dark font-medium">{title}</h3>

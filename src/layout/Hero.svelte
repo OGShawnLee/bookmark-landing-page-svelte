@@ -4,7 +4,7 @@
 
 <section class="grid gap-20 lg:grid-cols-12">
   <div class="lg:(col-span-6 order-2)">
-    <img src={hero} alt="" />
+    <img src={hero} alt="" width="576" height="409" />
   </div>
   <div
     class="flex flex-col gap-6 | text-center | lg:(col-span-6 order-1 text-left justify-center) ">
