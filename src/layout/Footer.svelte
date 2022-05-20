@@ -9,7 +9,7 @@
 <footer class={layout}>
   <section class="bg-soft-blue py-16">
     <div class="max-w-xs mx-auto | flex flex-col gap-12 sm:max-w-md md:max-w-xl">
-      <header class="flex flex-col gap-2 text-center">
+      <div class="flex flex-col gap-2 text-center">
         <!-- scroll margin doesnt work with sr-only -->
         <h2 class="sr-only" id="contact">Contact</h2>
         <span class="uppercase text-sm text-white/75 tracking-0.25em">
@@ -18,7 +18,7 @@
         <span class="text-2xl text-white font-medium md:text-3xl lg:text-4xl">
           Stay up-to-date with what we're doing
         </span>
-      </header>
+      </div>
       <Form />
     </div>
   </section>
