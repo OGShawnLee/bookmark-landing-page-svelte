@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [To be added](https://your-solution-url.com)
+- Solution URL: [Right here!](https://www.frontendmentor.io/solutions/fully-animated-and-responsive-bookmark-landing-page-with-malachite-ui-uNmwZOuSD4)
 - Live Site URL: [Deployed on Vercel](https://bookmark-landing-page-svelte.vercel.app/)
 
 ## My process
